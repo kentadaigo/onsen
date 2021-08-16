@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/onsen/static/css/main.c6b5890d.chunk.css",
+    "main.css": "/onsen/static/css/main.6d285348.chunk.css",
     "main.js": "/onsen/static/js/main.148ebcfe.chunk.js",
     "main.js.map": "/onsen/static/js/main.148ebcfe.chunk.js.map",
     "runtime-main.js": "/onsen/static/js/runtime-main.4dd1de02.js",
@@ -12,7 +12,7 @@
     "static/js/3.07c660e4.chunk.js.map": "/onsen/static/js/3.07c660e4.chunk.js.map",
     "index.html": "/onsen/index.html",
     "static/css/2.f09b10ee.chunk.css.map": "/onsen/static/css/2.f09b10ee.chunk.css.map",
-    "static/css/main.c6b5890d.chunk.css.map": "/onsen/static/css/main.c6b5890d.chunk.css.map",
+    "static/css/main.6d285348.chunk.css.map": "/onsen/static/css/main.6d285348.chunk.css.map",
     "static/js/2.d2578b17.chunk.js.LICENSE.txt": "/onsen/static/js/2.d2578b17.chunk.js.LICENSE.txt",
     "static/media/137920.b7de3c01.png": "/onsen/static/media/137920.b7de3c01.png",
     "static/media/137965.6a6c4958.png": "/onsen/static/media/137965.6a6c4958.png",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.4dd1de02.js",
     "static/css/2.f09b10ee.chunk.css",
     "static/js/2.d2578b17.chunk.js",
-    "static/css/main.c6b5890d.chunk.css",
+    "static/css/main.6d285348.chunk.css",
     "static/js/main.148ebcfe.chunk.js"
   ]
 }
